@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/foro-app/static/css/main.ddf4f913.chunk.css",
-    "main.js": "/foro-app/static/js/main.16b731f3.chunk.js",
-    "main.js.map": "/foro-app/static/js/main.16b731f3.chunk.js.map",
+    "main.css": "/foro-app/static/css/main.4d1db03f.chunk.css",
+    "main.js": "/foro-app/static/js/main.58a71382.chunk.js",
+    "main.js.map": "/foro-app/static/js/main.58a71382.chunk.js.map",
     "runtime-main.js": "/foro-app/static/js/runtime-main.f38799fb.js",
     "runtime-main.js.map": "/foro-app/static/js/runtime-main.f38799fb.js.map",
-    "static/js/2.f0e41f2b.chunk.js": "/foro-app/static/js/2.f0e41f2b.chunk.js",
-    "static/js/2.f0e41f2b.chunk.js.map": "/foro-app/static/js/2.f0e41f2b.chunk.js.map",
+    "static/js/2.071d65f9.chunk.js": "/foro-app/static/js/2.071d65f9.chunk.js",
+    "static/js/2.071d65f9.chunk.js.map": "/foro-app/static/js/2.071d65f9.chunk.js.map",
     "index.html": "/foro-app/index.html",
-    "precache-manifest.6969db87a7f26fdb38e4904fbb98e99d.js": "/foro-app/precache-manifest.6969db87a7f26fdb38e4904fbb98e99d.js",
+    "precache-manifest.b507cb549b4dd2f2f4eb25b24ecffe42.js": "/foro-app/precache-manifest.b507cb549b4dd2f2f4eb25b24ecffe42.js",
     "service-worker.js": "/foro-app/service-worker.js",
-    "static/css/main.ddf4f913.chunk.css.map": "/foro-app/static/css/main.ddf4f913.chunk.css.map",
-    "static/js/2.f0e41f2b.chunk.js.LICENSE.txt": "/foro-app/static/js/2.f0e41f2b.chunk.js.LICENSE.txt"
+    "static/css/main.4d1db03f.chunk.css.map": "/foro-app/static/css/main.4d1db03f.chunk.css.map",
+    "static/js/2.071d65f9.chunk.js.LICENSE.txt": "/foro-app/static/js/2.071d65f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f38799fb.js",
-    "static/js/2.f0e41f2b.chunk.js",
-    "static/css/main.ddf4f913.chunk.css",
-    "static/js/main.16b731f3.chunk.js"
+    "static/js/2.071d65f9.chunk.js",
+    "static/css/main.4d1db03f.chunk.css",
+    "static/js/main.58a71382.chunk.js"
   ]
 }

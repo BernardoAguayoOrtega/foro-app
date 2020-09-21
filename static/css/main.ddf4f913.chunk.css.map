@@ -1,1 +1,0 @@
-{"version":3,"sources":["GlobalStyles.css"],"names":[],"mappings":"AACA,EACC,SAAU,CACV,QACD,CAGA,KACC,cACD","file":"main.ddf4f913.chunk.css","sourcesContent":["/*reset all the default styles*/\n* {\n\tpadding: 0;\n\tmargin: 0;\n}\n\n/*Define the rem size*/\nhtml {\n\tfont-size: 12px;\n}\n"]}
