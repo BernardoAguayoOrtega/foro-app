@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foro-app/static/css/main.4d1db03f.chunk.css",
-    "main.js": "/foro-app/static/js/main.73e3195b.chunk.js",
-    "main.js.map": "/foro-app/static/js/main.73e3195b.chunk.js.map",
+    "main.js": "/foro-app/static/js/main.854727f0.chunk.js",
+    "main.js.map": "/foro-app/static/js/main.854727f0.chunk.js.map",
     "runtime-main.js": "/foro-app/static/js/runtime-main.f38799fb.js",
     "runtime-main.js.map": "/foro-app/static/js/runtime-main.f38799fb.js.map",
     "static/js/2.e21da23f.chunk.js": "/foro-app/static/js/2.e21da23f.chunk.js",
     "static/js/2.e21da23f.chunk.js.map": "/foro-app/static/js/2.e21da23f.chunk.js.map",
     "index.html": "/foro-app/index.html",
-    "precache-manifest.7e24f5462b5ec6787d3dd65d6b5d27d2.js": "/foro-app/precache-manifest.7e24f5462b5ec6787d3dd65d6b5d27d2.js",
+    "precache-manifest.905f19da9e3ced1df04d39a029a49ca1.js": "/foro-app/precache-manifest.905f19da9e3ced1df04d39a029a49ca1.js",
     "service-worker.js": "/foro-app/service-worker.js",
     "static/css/main.4d1db03f.chunk.css.map": "/foro-app/static/css/main.4d1db03f.chunk.css.map",
     "static/js/2.e21da23f.chunk.js.LICENSE.txt": "/foro-app/static/js/2.e21da23f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f38799fb.js",
     "static/js/2.e21da23f.chunk.js",
     "static/css/main.4d1db03f.chunk.css",
-    "static/js/main.73e3195b.chunk.js"
+    "static/js/main.854727f0.chunk.js"
   ]
 }
