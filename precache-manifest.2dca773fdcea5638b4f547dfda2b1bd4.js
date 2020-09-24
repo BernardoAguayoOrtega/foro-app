@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "880b4923772378e69f2b9606033ac514",
+    "revision": "e2aea9631191746b9ec4244190dd5562",
     "url": "/foro-app/index.html"
   },
   {
-    "revision": "138c9f984fd6da12b0cd",
+    "revision": "77858d1b4cc539e8c5c7",
     "url": "/foro-app/static/css/main.4d1db03f.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foro-app/static/js/4.b91280dc.chunk.js"
   },
   {
-    "revision": "d0b76b5c81e68d5c5e03",
-    "url": "/foro-app/static/js/5.6d48e9eb.chunk.js"
+    "revision": "c1bdeec26316baa56ec6",
+    "url": "/foro-app/static/js/5.993322b2.chunk.js"
   },
   {
     "revision": "b6cf6c37b0b632bd9054",
@@ -36,11 +36,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foro-app/static/js/7.d67a9b39.chunk.js"
   },
   {
-    "revision": "138c9f984fd6da12b0cd",
-    "url": "/foro-app/static/js/main.66bf01a4.chunk.js"
+    "revision": "77858d1b4cc539e8c5c7",
+    "url": "/foro-app/static/js/main.045f9578.chunk.js"
   },
   {
-    "revision": "f9d801371633a66e350a",
-    "url": "/foro-app/static/js/runtime-main.53e36ca2.js"
+    "revision": "38bf6d2d6838553030fe",
+    "url": "/foro-app/static/js/runtime-main.5e2d8c97.js"
   }
 ]);
