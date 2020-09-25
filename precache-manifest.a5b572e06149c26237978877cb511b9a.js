@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbd6ca84c4e734c20edc2dddb27e28d7",
+    "revision": "eeac19c937adf890646193d655168c15",
     "url": "/foro-app/index.html"
   },
   {
-    "revision": "49cea98ab00183f0f655",
+    "revision": "bbe287d12853a0e73f77",
     "url": "/foro-app/static/css/main.4d1db03f.chunk.css"
   },
   {
@@ -28,19 +28,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foro-app/static/js/5.993322b2.chunk.js"
   },
   {
-    "revision": "b6cf6c37b0b632bd9054",
-    "url": "/foro-app/static/js/6.eb32041e.chunk.js"
+    "revision": "5307da3282c67fb7d80b",
+    "url": "/foro-app/static/js/6.d6c34683.chunk.js"
   },
   {
     "revision": "1660494c63dff2e5a2ba",
     "url": "/foro-app/static/js/7.d67a9b39.chunk.js"
   },
   {
-    "revision": "49cea98ab00183f0f655",
-    "url": "/foro-app/static/js/main.fc2f8c76.chunk.js"
+    "revision": "bbe287d12853a0e73f77",
+    "url": "/foro-app/static/js/main.dba8cec4.chunk.js"
   },
   {
-    "revision": "38bf6d2d6838553030fe",
-    "url": "/foro-app/static/js/runtime-main.5e2d8c97.js"
+    "revision": "c9395991755cce128287",
+    "url": "/foro-app/static/js/runtime-main.73e175ac.js"
   }
 ]);
